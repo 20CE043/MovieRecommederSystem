@@ -1,7 +1,7 @@
 streamlit
 pickle
-pandas
-numpy
+pandas as pd
+numpy as np
 requests
 ast
 sklearn
